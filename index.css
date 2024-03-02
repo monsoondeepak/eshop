@@ -38,3 +38,8 @@
   ::-webkit-scrollbar-thumb{
     background-color:var(--main-color);
   }
+
+  .page-alignment{
+    max-width: 1296px;
+    margin-inline:auto;
+  }
